@@ -1,0 +1,3 @@
+/Users/chain03/CLionProjects/pruebagit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chain03/CLionProjects/pruebagit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chain03/CLionProjects/pruebagit/cmake-build-debug/CMakeFiles/pruebagit.dir
