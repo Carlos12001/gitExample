@@ -5,6 +5,6 @@ void imprimeCarlos(){
 
 int main() {
     imprimeCarlos();
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "World!" << std::endl;
     return 0;
 }
